@@ -1,39 +1,48 @@
-Hello, I'm Lalith Joseph
+## **Hey there👋, I'm Lalith Joseph**
 
-<a href="https://linkedin.com/in/lalithjoseph"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+A cybersecurity enthusiast with a strong foundation in risk management, compliance auditing, and threat detection. With 6+ years of experience in auditing and finance, I’ve developed a keen eye for analyzing security risks, implementing controls, and ensuring compliance with frameworks like NIST, ISO 27000, and MITRE ATT&CK.
 
-I am a cybersecurity enthusiast with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+🚀 Currently, I’m expanding my expertise in SOC operations, AI and Cloud Security while contributing to cybersecurity projects. 
 
-My journey in Fintech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+📫 Connect with me: <a href="https://linkedin.com/in/lalithjoseph"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/LalithJoseph1"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:LalithJoseph1"/></a> 
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
 
-| Skill                                         | Associated Project         |
+•	SIEM Implementation 
+
+•	Log Analysis
+
+•	Network Traffic Monitoring 
+
+•	Incident Response 
 
 ## Tools
-[Provide tools and break them down into categories.]
 
-### Network
+
+#### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004372?&style=for-the-badge&logo=Nmap&logoColor=white" />
+
     
-### Endpoint
+#### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
  
-### SIEM
+#### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
- 
-## Certifications
-[Provide certifications that you have obtained.]
 
+ #### Cloud
+ <div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+
+    
 ## Projects
-- Detection Lab
+- SIEM monitoring with Microsoft Sentinel on Azure
 - Threat Intelligence Platform
