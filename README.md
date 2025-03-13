@@ -44,5 +44,5 @@ A cybersecurity enthusiast with a strong foundation in risk management, complian
 
     
 ## Projects
-- SIEM monitoring with Microsoft Sentinel on Azure
+- [SIEM monitoring with Microsoft Sentinel on Azure](https://github.com/LalithJoseph/Azure-SIEM-Project-with-Microsoft-Sentinel/tree/main)
 - Threat Intelligence Platform
