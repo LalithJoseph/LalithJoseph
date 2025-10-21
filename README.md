@@ -1,10 +1,10 @@
 ## **Hey there👋, I'm Lalith Joseph**
 
 
-A cybersecurity enthusiast with a strong foundation in risk management, compliance auditing, and threat detection. With 6+ years of experience in auditing and finance, I’ve developed a keen eye for analyzing security risks, implementing controls, and ensuring compliance with frameworks like NIST, ISO 27000, and MITRE ATT&CK.
+A cybersecurity enthusiast with a strong foundation in risk management, compliance and analytics. With 6+ years of experience in auditing and finance, I’ve developed a keen eye for analyzing security risks, implementing controls, and ensuring compliance with frameworks like SOX, NIST, ISO 27000, GDPR etc.
 
 
-🚀 Currently, I’m expanding my expertise in SOC operations, AI and Cloud Security while contributing to cybersecurity projects. 
+🚀 Currently, I’m expanding my expertise in GRC, Regtech, AI and Cloud Security while contributing to projects. 
 
 
 📫 Connect with me: <a href="https://linkedin.com/in/lalithjoseph"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/LalithJoseph1"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:LalithJoseph1"/></a> 
@@ -12,13 +12,14 @@ A cybersecurity enthusiast with a strong foundation in risk management, complian
 
 ## Skills
 
-•	SIEM Implementation 
+•	Regulatory Compliance 
 
-•	Log Analysis
+•	Analytics
 
-•	Network Traffic Monitoring 
+•	Reporting
 
-•	Incident Response 
+•	Log Monitoring 
+ 
 
 ## Tools
 
@@ -26,7 +27,6 @@ A cybersecurity enthusiast with a strong foundation in risk management, complian
 #### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-004372?&style=for-the-badge&logo=Nmap&logoColor=white" />
 
     
 #### Endpoint
